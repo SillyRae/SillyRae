@@ -5,4 +5,6 @@
 🎨 I like to have a creative mind, so I think of projects a lot!<br/>
 💭 Currently learning [Python](https://www.python.org/) at 12 years old!<br/>
 
+(Yes, I did draw my profile picture!)
+
 [![Rae's GitHub stats](https://github-readme-stats.vercel.app/api?username=SillyRae&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
