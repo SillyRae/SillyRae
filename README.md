@@ -4,7 +4,7 @@
 🥳 F U N F A C T: I used to code when I was a little younger, but now I am back on track again!<br/>
 🎨 I like to have a creative mind, so I think of projects a lot!<br/>
 💭 Currently learning [Python](https://www.python.org/) at 12 years old!<br/>
-📱 Check out my [Youtube](https://www.youtube.com/@SillyCeli) channel!
+
 
 (Yes, I did draw my profile picture!)
 
