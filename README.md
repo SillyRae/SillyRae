@@ -21,3 +21,6 @@
 [![Why You Need a Blog and How to *actually* Code One](https://ytcards.demolab.com/?id=LrzempwNwyU&title=Why+You+Need+a+Blog+and+How+To+*actually*+Code+One&lang=en&timestamp=1717128000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=858 "Why You Need a Blog and How to *actually* Code One")](https://youtu.be/tRZGeaHPoaw?si=LNkzY8CQRog4VZXC)
 
 ## 👩🏽‍💻 My Current Projects
+### Tutorial Followed Projects
+
+### Self Made Projects
