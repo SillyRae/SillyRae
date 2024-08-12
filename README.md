@@ -4,6 +4,7 @@
 🥳 F U N F A C T: I used to code when I was a little younger, but now I am back on track again!<br/>
 🎨 I like to have a creative mind, so I think of projects a lot!<br/>
 💭 Currently learning [Python](https://www.python.org/) at 12 years old!<br/>
+📱 Check out my [Youtube](https://www.youtube.com/@SillyCeli) channel!
 
 (Yes, I did draw my profile picture!)
 
@@ -18,3 +19,5 @@
 [![Learn To Code Like a GENIUS and Not Waste Time](https://ytcards.demolab.com/?id=q-_ezD9Swz4&title=Learn+To+Code+Like+a+GENIUS+and+Not+Waste+Time&lang=en&timestamp=1703134800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=581 "Learn To Code Like A Genius and Not Waste Time")](https://youtu.be/q-_ezD9Swz4?si=QyddepB1qOQNNDmo)
 [![Git and Github Tutorial for Beginners](https://ytcards.demolab.com/?id=tRZGeaHPoaw&title=Git+and+Github+Tutorial+For+Beginners&lang=en&timestamp=1656043200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=2779 "Learn To Code Like A Genius and Not Waste Time")](https://youtu.be/q-_ezD9Swz4?si=QyddepB1qOQNNDmo)
 [![Why You Need a Blog and How to *actually* Code One](https://ytcards.demolab.com/?id=LrzempwNwyU&title=Why+You+Need+a+Blog+and+How+To+*actually*+Code+One&lang=en&timestamp=1717128000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=858 "Why You Need a Blog and How to *actually* Code One")](https://youtu.be/tRZGeaHPoaw?si=LNkzY8CQRog4VZXC)
+
+## 👩🏽‍💻 My Current Projects
