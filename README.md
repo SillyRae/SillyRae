@@ -3,7 +3,7 @@
 👩🏽‍💻 A new Programmer, hoping to learn some new coding languages!<br/>
 🥳 F U N F A C T: I used to code when I was a little younger, but now I am back on track again!<br/>
 🎨 I like to have a creative mind, so I think of projects a lot!<br/>
-💭 Currently learning [Python](https://www.python.org/) at 12 years old!<br/>
+💭 Currently learning [Python](https://www.python.org/), and programming at 12 years old!<br/>
 
 
 (Yes, I did draw my profile picture!)
